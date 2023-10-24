@@ -21,6 +21,10 @@ const navLinks = [
     path: "/contact",
     display: "Contact",
   },
+  {
+    path: "/Form",
+    dispaly: "Add Events";
+  }
 
   
  

@@ -23,7 +23,7 @@ const navLinks = [
   },
   {
     path: "/Form",
-    dispaly: "Add Events";
+    dispaly: "Events";
   }
 
   
